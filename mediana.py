@@ -164,9 +164,3 @@ if __name__ == "__main__":
 
 
 #python3.13 mediana.py
-
-
-
-
-
-#python3.13 mediana.py
